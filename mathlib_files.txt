@@ -1,0 +1,16 @@
+analysis/calculus/taylor
+analysis/inner_product_space/symmetric
+analysis/locally_convex/abs_convex
+analysis/locally_convex/balanced_core_hull
+analysis/locally_convex/bounded
+analysis/locally_convex/continuous_of_bounded
+analysis/locally_convex/polar
+analysis/locally_convex/weak_dual
+analysis/locally_convex/with_seminorms
+analysis/schwartz_space
+analysis/seminorm
+linear_algebra/matrix/sesquilinear_form
+linear_algebra/linear_pmap
+linear_algebra/symplectic_group
+topology/algebra/module/linear_pmap
+topology/algebra/module/weak_dual
