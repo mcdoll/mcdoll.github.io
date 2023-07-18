@@ -1,4 +1,5 @@
 analysis/calculus/taylor
+analysis/inner_product_space/linear_pmap
 analysis/inner_product_space/symmetric
 analysis/locally_convex/abs_convex
 analysis/locally_convex/balanced_core_hull
