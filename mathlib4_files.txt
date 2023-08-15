@@ -1,0 +1,27 @@
+Theory files:
+
+Analysis/Calculus/Taylor
+Analysis/Distribution/SchwartzSpace
+Analysis/InnerProductSpace/LinearPMap
+Analysis/InnerProductSpace/Symmetric
+Analysis/LocallyConvex/AbsConvex
+Analysis/LocallyConvex/BalancedCoreHull
+Analysis/LocallyConvex/Bounded
+Analysis/LocallyConvex/ContinuousOfBounded
+Analysis/LocallyConvex/Polar
+Analysis/LocallyConvex/WeakDual
+Analysis/LocallyConvex/WithSeminorms
+Analysis/Seminorm
+LinearAlgebra/Matrix/SesquilinearForm
+LinearAlgebra/LinearPMap
+LinearAlgebra/SymplecticGroup
+Topology/Algebra/Module/LinearPMap
+Topology/Algebra/Module/WeakDual
+
+Metaprogramming files:
+
+Tactic/Continuity
+Tactic/Existsi
+Tactic/NthRewrite
+Tactic/Qify
+Tactic/Zify
