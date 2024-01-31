@@ -24,6 +24,7 @@ Topology/Algebra/Module/WeakDual
 
 Metaprogramming files:
 
+Tactic/Congrm
 Tactic/Continuity
 Tactic/Existsi
 Tactic/NthRewrite
