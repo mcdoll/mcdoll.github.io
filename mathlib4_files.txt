@@ -1,8 +1,10 @@
 Theory files:
 
+Analysis/Seminorm
 Analysis/Calculus/Taylor
 Analysis/Distribution/SchwartzSpace
 Analysis/InnerProductSpace/LinearPMap
+Analysis/InnerProductSpace/ProdL2
 Analysis/InnerProductSpace/Symmetric
 Analysis/LocallyConvex/AbsConvex
 Analysis/LocallyConvex/BalancedCoreHull
@@ -11,10 +13,12 @@ Analysis/LocallyConvex/ContinuousOfBounded
 Analysis/LocallyConvex/Polar
 Analysis/LocallyConvex/WeakDual
 Analysis/LocallyConvex/WithSeminorms
-Analysis/Seminorm
-LinearAlgebra/Matrix/SesquilinearForm
+Analysis/NormedSpace/ProdLp
+Analysis/SpecialFunction/JapaneseBracket
 LinearAlgebra/LinearPMap
 LinearAlgebra/SymplecticGroup
+LinearAlgebra/Basis/Bilinear
+LinearAlgebra/Matrix/SesquilinearForm
 Topology/Algebra/Module/LinearPMap
 Topology/Algebra/Module/WeakDual
 
@@ -24,4 +28,6 @@ Tactic/Continuity
 Tactic/Existsi
 Tactic/NthRewrite
 Tactic/Qify
+Tactic/Rify
+Tactic/RSuffices
 Tactic/Zify
