@@ -13,7 +13,10 @@ Analysis/LocallyConvex/ContinuousOfBounded
 Analysis/LocallyConvex/Polar
 Analysis/LocallyConvex/WeakDual
 Analysis/LocallyConvex/WithSeminorms
+Analysis/Normed/Group/CocompactMap
+Analysis/Normed/Group/ZeroAtInfty
 Analysis/NormedSpace/ProdLp
+Analysis/NormedSpace/Span
 Analysis/SpecialFunction/JapaneseBracket
 LinearAlgebra/LinearPMap
 LinearAlgebra/SymplecticGroup
