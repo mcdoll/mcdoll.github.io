@@ -3,10 +3,12 @@ Theory files:
 Analysis/Seminorm
 Analysis/Calculus/Taylor
 Analysis/Distribution/SchwartzSpace
+Analysis/Distribution/TemperateGrowth
 Analysis/InnerProductSpace/LinearPMap
 Analysis/InnerProductSpace/ProdL2
 Analysis/InnerProductSpace/Symmetric
 Analysis/LocallyConvex/AbsConvex
+Analysis/LocallyConvex/AbsConvexOpen
 Analysis/LocallyConvex/BalancedCoreHull
 Analysis/LocallyConvex/Bounded
 Analysis/LocallyConvex/ContinuousOfBounded
