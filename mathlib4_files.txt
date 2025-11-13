@@ -4,6 +4,7 @@ Analysis/Seminorm
 Analysis/Calculus/Taylor
 Analysis/Distribution/SchwartzSpace
 Analysis/Distribution/TemperateGrowth
+Analysis/Fourier/Notation
 Analysis/InnerProductSpace/LinearPMap
 Analysis/InnerProductSpace/ProdL2
 Analysis/InnerProductSpace/Symmetric
@@ -25,6 +26,7 @@ LinearAlgebra/SymplecticGroup
 LinearAlgebra/Basis/Bilinear
 LinearAlgebra/Matrix/SesquilinearForm
 Topology/Algebra/Module/LinearPMap
+Topology/Algebra/Module/PointwiseConvergence
 Topology/Algebra/Module/WeakDual
 
 Metaprogramming files:
