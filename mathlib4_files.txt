@@ -2,6 +2,8 @@ Theory files:
 
 Analysis/Seminorm
 Analysis/Calculus/Taylor
+Analysis/Distribution/DerivNotation
+Analysis/Distribution/FourierSchwartz
 Analysis/Distribution/SchwartzSpace
 Analysis/Distribution/TemperateGrowth
 Analysis/Fourier/Notation
@@ -13,11 +15,13 @@ Analysis/LocallyConvex/AbsConvexOpen
 Analysis/LocallyConvex/BalancedCoreHull
 Analysis/LocallyConvex/Bounded
 Analysis/LocallyConvex/ContinuousOfBounded
+Analysis/LocallyConvex/PointwiseConvergence
 Analysis/LocallyConvex/Polar
 Analysis/LocallyConvex/WeakDual
 Analysis/LocallyConvex/WithSeminorms
 Analysis/Normed/Group/CocompactMap
 Analysis/Normed/Group/ZeroAtInfty
+Analysis/Normed/Operator/Extend
 Analysis/NormedSpace/ProdLp
 Analysis/NormedSpace/Span
 Analysis/SpecialFunction/JapaneseBracket
