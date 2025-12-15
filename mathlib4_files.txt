@@ -6,6 +6,7 @@ Analysis/Distribution/DerivNotation
 Analysis/Distribution/FourierSchwartz
 Analysis/Distribution/SchwartzSpace
 Analysis/Distribution/TemperateGrowth
+Analysis/Distribution/TemperedDistribution
 Analysis/Fourier/Notation
 Analysis/InnerProductSpace/LinearPMap
 Analysis/InnerProductSpace/ProdL2
@@ -15,6 +16,7 @@ Analysis/LocallyConvex/AbsConvexOpen
 Analysis/LocallyConvex/BalancedCoreHull
 Analysis/LocallyConvex/Bounded
 Analysis/LocallyConvex/ContinuousOfBounded
+Analysis/LocallyConvex/Montel
 Analysis/LocallyConvex/PointwiseConvergence
 Analysis/LocallyConvex/Polar
 Analysis/LocallyConvex/WeakDual
