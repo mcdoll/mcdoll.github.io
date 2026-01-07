@@ -7,6 +7,8 @@ Analysis/Distribution/FourierSchwartz
 Analysis/Distribution/SchwartzSpace
 Analysis/Distribution/TemperateGrowth
 Analysis/Distribution/TemperedDistribution
+Analysis/Fourier/Convolution
+Analysis/Fourier/LpSpace
 Analysis/Fourier/Notation
 Analysis/InnerProductSpace/LinearPMap
 Analysis/InnerProductSpace/ProdL2
@@ -23,9 +25,9 @@ Analysis/LocallyConvex/WeakDual
 Analysis/LocallyConvex/WithSeminorms
 Analysis/Normed/Group/CocompactMap
 Analysis/Normed/Group/ZeroAtInfty
+Analysis/Normed/Module/Span
+Analysis/Normed/Lp/ProdLp
 Analysis/Normed/Operator/Extend
-Analysis/NormedSpace/ProdLp
-Analysis/NormedSpace/Span
 Analysis/SpecialFunction/JapaneseBracket
 LinearAlgebra/LinearPMap
 LinearAlgebra/SymplecticGroup
@@ -33,6 +35,7 @@ LinearAlgebra/Basis/Bilinear
 LinearAlgebra/Matrix/SesquilinearForm
 Topology/Algebra/Module/LinearPMap
 Topology/Algebra/Module/PointwiseConvergence
+Topology/Algebra/Module/WeakBilin
 Topology/Algebra/Module/WeakDual
 
 Metaprogramming files:
