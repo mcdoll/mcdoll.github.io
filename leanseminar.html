@@ -44,6 +44,17 @@ turn to our most recent results on automating large parts of the formalization p
 modern LLMs with proof automation. I will discuss the direct use of multiple collaborating LLMs,
 providing them with effective formalization incentives, and ways such approaches can be supervised towards a particular mathematical goal.</p></span>
     </details>
+    <li><strong>30.04.26: </strong>Yan Yablonovskiy: Typeclasses in Lean 4</li>
+    <details>
+        <summary>Abstract</summary>
+        <span><p>Formalising mathematics demands paying attention to things typically taken for granted, and this includes ensuring lemmas that apply to a additive group or a ring naturally apply to a field, with minimal friction.
+In traditional mathematics this would be as short as to note a field is an additive group in its operations, but to treat the field as an additive group, the field properties are implicitly forgotten.
+
+In Lean 4, this is done via the type-class system, such that when one states there is a field 'instance', this also comes with the appropriate instances that build up to the field.
+Conversely, if for example one defines and proves a field instance on the reals, it will automatically come with the associated substructures and operations.
+
+This talk describes how the type class system has been used to build up algebraic structures in Lean 4 and mathlib, assuming minimal previous knowledge of Lean.</p></span>
+    </details>
 </ul>
 
 <h2>Further information</h2>
